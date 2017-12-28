@@ -13,10 +13,12 @@ import com.jettech.tmp.model.TapScene;
 import com.jettech.tmp.model.User;
 /**
  * 
+ *注释
 * @ClassName: SceneService
 * @Description: TODO(这里用一句话描述这个类的作用)
 * @author leiduo
 * @date 2017年3月31日 下午8:16:04
+*
 *
  */
 @Service
